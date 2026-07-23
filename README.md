@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Ibrahim 👋
 
-<!--
-**jogilkaribrahim/jogilkaribrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer with 4+ years building AI-driven SaaS platforms, cloud-native systems, and reactive microservices for international product teams. Currently shipping ConTech AI SaaS for an EU (Berlin) team, remote from Mumbai.
 
-Here are some ideas to get you started:
+🔭 Currently: Spring Reactive microservices, Kafka event pipelines, and LLM/automation features (n8n, OCR, RAG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Experience: EU & India-based remote teams, mentoring junior engineers
+
+🎯 Targeting: AI Engineer / Forward Deployed Engineer roles
+
+🛠️ Stack: Java, Spring Boot/WebFlux, TypeScript, Angular, React, Python, FastAPI, PostgreSQL, MongoDB, Docker, GCP/Azure
+
+**Featured projects**
+
+[social-media-ai-team](https://github.com/jogilkaribrahim/social-media-ai-team) — agentic framework running a small business's Instagram content pipeline via AI agents
+
+[goal-spark-fitness-buddy](https://github.com/jogilkaribrahim/goal-spark-fitness-buddy) — AI workout & nutrition planner
+
+[nutri](https://github.com/jogilkaribrahim/nutri) — nutritional insights from meal photos
+
+[opentradex](https://github.com/jogilkaribrahim/opentradex) — dashboard-first agent harness for AI-assisted trading workflows
+
+AI Consultant Platform — full-stack platform for product strategy & MVP development (Python, FastAPI, React, Docker, OpenAI)
+
+Image-to-Text OCR API — FastAPI OCR service, 80% accuracy on blurred text (Python, FastAPI, OCR, Computer Vision)
+
+📫 jogilkaribrahim@gmail.com | [LinkedIn](https://www.linkedin.com/in/ibrahim-jogilkar/) | [Portfolio](https://jogilkaribrahim.github.io/portfolio/)
