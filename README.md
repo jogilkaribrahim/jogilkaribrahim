@@ -18,8 +18,6 @@ Full-stack software engineer with 4+ years building AI-driven SaaS platforms, cl
 
 [nutri](https://github.com/jogilkaribrahim/nutri) — nutritional insights from meal photos
 
-[opentradex](https://github.com/jogilkaribrahim/opentradex) — dashboard-first agent harness for AI-assisted trading workflows
-
 AI Consultant Platform — full-stack platform for product strategy & MVP development (Python, FastAPI, React, Docker, OpenAI)
 
 Image-to-Text OCR API — FastAPI OCR service, 80% accuracy on blurred text (Python, FastAPI, OCR, Computer Vision)
